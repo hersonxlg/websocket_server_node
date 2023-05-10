@@ -25,7 +25,6 @@ function originIsAllowed(origin) {
     //if(origin === "http://localhost:3000"){
     //    return true;
     //}
-    //return false;
     return true;
 }
 
